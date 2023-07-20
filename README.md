@@ -13,5 +13,10 @@ Projeto usando HTML e CSS aplicando metodologia de responsividade com mobile-fir
 - Importação de fontes através do Google Fonts.
 
 
+## Para vizualizar o Projeto Acesse:
+
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+https://sandrobrumsb.github.io/aluraplus/
 
 
