@@ -17,6 +17,5 @@ Projeto usando HTML e CSS aplicando metodologia de responsividade com mobile-fir
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-https://sandrobrumsb.github.io/aluraplus/
-
+https://sandrobrumsb.github.io/Alura_Book/
 
